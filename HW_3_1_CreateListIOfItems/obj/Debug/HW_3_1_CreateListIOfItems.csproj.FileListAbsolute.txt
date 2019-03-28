@@ -1,0 +1,6 @@
+C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_3_1_CreateListIOfItems\bin\Debug\HW_3_1_CreateListIOfItems.exe.config
+C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_3_1_CreateListIOfItems\bin\Debug\HW_3_1_CreateListIOfItems.exe
+C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_3_1_CreateListIOfItems\bin\Debug\HW_3_1_CreateListIOfItems.pdb
+C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_3_1_CreateListIOfItems\obj\Debug\HW_3_1_CreateListIOfItems.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_3_1_CreateListIOfItems\obj\Debug\HW_3_1_CreateListIOfItems.exe
+C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_3_1_CreateListIOfItems\obj\Debug\HW_3_1_CreateListIOfItems.pdb

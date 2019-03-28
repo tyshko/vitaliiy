@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_1_Create_ConsoleApplicationTakes5numbers", "HW_1_Create_ConsoleApplicationTakes5numbers\HW_1_Create_ConsoleApplicationTakes5numbers.csproj", "{6988BE7F-03C2-4CE0-A979-953AF856FDC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_1_Optional_UnitTestOpenAnyWebSite", "HW_1_Optional_UnitTestOpenAnyWebSite\HW_1_Optional_UnitTestOpenAnyWebSite.csproj", "{89DC5881-37E3-424A-8D41-72AB41850B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_2_1_ ImplementGameGuessNumber", "HW_2_1_ ImplementGameGuessNumber\HW_2_1_ ImplementGameGuessNumber.csproj", "{F7C5AC59-D1DD-4B7B-BCC5-31F38AF638D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_4.1_OOP", "HW_4.1_OOP\HW_4.1_OOP.csproj", "{22BF147C-1C54-4859-BA6F-B610115638A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_3_1_CreateListIOfItems", "HW_3_1_CreateListIOfItems\HW_3_1_CreateListIOfItems.csproj", "{1D119CCF-3174-4CAF-B488-8F32F12740A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6988BE7F-03C2-4CE0-A979-953AF856FDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6988BE7F-03C2-4CE0-A979-953AF856FDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6988BE7F-03C2-4CE0-A979-953AF856FDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6988BE7F-03C2-4CE0-A979-953AF856FDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DC5881-37E3-424A-8D41-72AB41850B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DC5881-37E3-424A-8D41-72AB41850B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DC5881-37E3-424A-8D41-72AB41850B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DC5881-37E3-424A-8D41-72AB41850B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C5AC59-D1DD-4B7B-BCC5-31F38AF638D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C5AC59-D1DD-4B7B-BCC5-31F38AF638D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C5AC59-D1DD-4B7B-BCC5-31F38AF638D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C5AC59-D1DD-4B7B-BCC5-31F38AF638D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BF147C-1C54-4859-BA6F-B610115638A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BF147C-1C54-4859-BA6F-B610115638A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BF147C-1C54-4859-BA6F-B610115638A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BF147C-1C54-4859-BA6F-B610115638A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D119CCF-3174-4CAF-B488-8F32F12740A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D119CCF-3174-4CAF-B488-8F32F12740A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D119CCF-3174-4CAF-B488-8F32F12740A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D119CCF-3174-4CAF-B488-8F32F12740A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96AF88CC-BDD6-4F54-B9B9-41F6838F046B}
+	EndGlobalSection
+EndGlobal
