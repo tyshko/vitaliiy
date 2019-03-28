@@ -1,6 +1,0 @@
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_4.1_OOP\bin\Debug\HW_4.1_OOP.dll
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_4.1_OOP\bin\Debug\HW_4.1_OOP.pdb
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_4.1_OOP\obj\Debug\HW_4.1_OOP.csprojAssemblyReference.cache
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_4.1_OOP\obj\Debug\HW_4.1_OOP.csproj.CoreCompileInputs.cache
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_4.1_OOP\obj\Debug\HW_4.1_OOP.dll
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_4.1_OOP\obj\Debug\HW_4.1_OOP.pdb

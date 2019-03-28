@@ -1,7 +1,0 @@
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_2_1_ ImplementGameGuessNumber\bin\Debug\HW_2_1_ ImplementGameGuessNumber.exe.config
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_2_1_ ImplementGameGuessNumber\bin\Debug\HW_2_1_ ImplementGameGuessNumber.exe
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_2_1_ ImplementGameGuessNumber\bin\Debug\HW_2_1_ ImplementGameGuessNumber.pdb
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_2_1_ ImplementGameGuessNumber\obj\Debug\HW_2_1_ ImplementGameGuessNumber.csprojAssemblyReference.cache
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_2_1_ ImplementGameGuessNumber\obj\Debug\HW_2_1_ ImplementGameGuessNumber.csproj.CoreCompileInputs.cache
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_2_1_ ImplementGameGuessNumber\obj\Debug\HW_2_1_ ImplementGameGuessNumber.exe
-C:\Users\Vitalii_Tyshko\Desktop\vitalii\vitalii_project\MySolution\HW_2_1_ ImplementGameGuessNumber\obj\Debug\HW_2_1_ ImplementGameGuessNumber.pdb
